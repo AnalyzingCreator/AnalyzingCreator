@@ -31,7 +31,7 @@ We welcome contributions from individuals who share our vision of promoting unit
 
 ## Support
 
-If you encounter any issues, have questions, or would like to provide feedback, please don't hesitate to reach out to us. You can contact us via bohdandomvasiliou@gmail.com or [community forum link].
+If you encounter any issues, have questions, or would like to provide feedback, please don't hesitate to reach out to us. You can contact us via bohdandomvasiliou@gmail.com or https://www.youtube.com/channel/UCGq_u-7QRTJkg07dODA3IqQ.
 
 ## License
 
